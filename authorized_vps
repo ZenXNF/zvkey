@@ -1,0 +1,13 @@
+# ================================================================
+#   ZV-Manager — Authorized VPS Registry
+#   Repo  : github.com/ZenXNF/zvkey
+#   Format: ### NamaServer Expired IPv4
+#   Expired bisa diisi tanggal YYYY-MM-DD atau "Lifetime"
+# ================================================================
+
+# ── ZenXNF Personal ──────────────────────────────────────────────
+### neva-jkt Lifetime 202.155.14.42
+
+# ── Client ───────────────────────────────────────────────────────
+### client-a 2026-06-01 103.xxx.xxx.xxx
+### client-b Lifetime  103.yyy.yyy.yyy
